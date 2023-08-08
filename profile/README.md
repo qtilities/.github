@@ -23,14 +23,20 @@ Following the list of projects in this organization, subdivided by category.
 - [sqeleton]: Application template
 
 
+## Widgets
+
+- [accordion]: Accordion widget
+
+
+[accordion]:    https://github.com/qtilities/accordion/
 [jacksettings]: https://github.com/qtilities/jacksettings/
 [magnifiqus]:   https://github.com/qtilities/magnifiqus/
 [picom-conf]:   https://github.com/qtilities/picom-conf/
 [qruler]:       https://github.com/qtilities/qruler/
-[sqreenshot]:   https://github.com/qtilities/sqreenshot/
-[voltrayke]:    https://github.com/qtilities/voltrayke/
 [sddm-conf]:    https://github.com/qtilities/sddm-conf/
 [sqeleton]:     https://github.com/qtilities/sqeleton/
+[sqreenshot]:   https://github.com/qtilities/sqreenshot/
+[voltrayke]:    https://github.com/qtilities/voltrayke/
 
 [JACK]:             https://jackaudio.org/
 [Gnome Screenshot]: https://gitlab.gnome.org/GNOME/gnome-screenshot/
