@@ -5,6 +5,7 @@ Following the list of projects in this organization, subdivided by category.
 ## Accessories
 
 - [colorpick]:  Color picker and contrast checker
+- [hexedit]:    Hex editor widget library, application and Qt Designer plugin
 - [magnifiqus]: Screen magnifier
 - [qruler]:     Simple on-screen pixel meter
 - [sqreenshot]: Simple screenshot tool based on [Gnome Screenshot]
@@ -31,6 +32,7 @@ Following the list of projects in this organization, subdivided by category.
 
 [accordion]:    https://github.com/qtilities/accordion/
 [colorpick]:    https://github.com/qtilities/colorpick/
+[hexedit]:      https://github.com/qtilities/hexedit/
 [jacksettings]: https://github.com/qtilities/jacksettings/
 [magnifiqus]:   https://github.com/qtilities/magnifiqus/
 [picom-conf]:   https://github.com/qtilities/picom-conf/
