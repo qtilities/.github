@@ -9,6 +9,7 @@ Following the list of projects in this organization, subdivided by category.
 - [magnifiqus]: Screen magnifier
 - [qruler]:     Simple on-screen pixel meter
 - [sqreenshot]: Simple screenshot tool based on [Gnome Screenshot]
+- [wshot]: Screenshot tool for wayland
 
 ## Audio
 
@@ -41,6 +42,7 @@ Following the list of projects in this organization, subdivided by category.
 [sqeleton]:     https://github.com/qtilities/sqeleton/
 [sqreenshot]:   https://github.com/qtilities/sqreenshot/
 [voltrayke]:    https://github.com/qtilities/voltrayke/
+[wshot]:       https://github.com/qtilities/wshot
 
 [JACK]:             https://jackaudio.org/
 [Gnome Screenshot]: https://gitlab.gnome.org/GNOME/gnome-screenshot/
