@@ -6,6 +6,7 @@ Following the list of projects in this organization, subdivided by category.
 
 - [colorpick]:  Color picker and contrast checker
 - [hexedit]:    Hex editor widget library, application and Qt Designer plugin
+- [omgmounter]  OMGMounter - CD/DVD image mounter GUI
 - [magnifiqus]: Screen magnifier
 - [qruler]:     Simple on-screen pixel meter
 - [sqreenshot]: Simple screenshot tool based on [Gnome Screenshot]
@@ -35,6 +36,7 @@ Following the list of projects in this organization, subdivided by category.
 [colorpick]:    https://github.com/qtilities/colorpick/
 [hexedit]:      https://github.com/qtilities/hexedit/
 [jacksettings]: https://github.com/qtilities/jacksettings/
+[omgmounter]:   https://github.com/qtilities/omgmounter/
 [magnifiqus]:   https://github.com/qtilities/magnifiqus/
 [picom-conf]:   https://github.com/qtilities/picom-conf/
 [qruler]:       https://github.com/qtilities/qruler/
